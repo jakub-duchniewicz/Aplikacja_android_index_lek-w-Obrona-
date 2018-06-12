@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="title_activity_leki"></string>
+    <string name="search_name">Szukaj</string>
+    <string name="settings_name">Ustawienia</string>
+    <string name="update_name">Update</string>
+    <string name="Pelnyopis" />
+    <string name="cofnij">cofnij</string>
+    <string name="kategoria">kategoria</string>
+    <string name="leki">Leki</string>
+    <string name="ulubione">Ulubione</string>
+</resources>
